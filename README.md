@@ -72,7 +72,7 @@ For any inquiries or feedback, please contact Aditya Sharma at iamadipurohit@gma
 
 ## Illustrations
 ![db_image](https://github.com/user-attachments/assets/7f42c1d2-e2ec-4ebf-a07d-ae93dfb48f3e)
-
+![form_made](https://github.com/user-attachments/assets/44a27d62-d42c-4508-8933-2c93abed5128)
 *Screenshot of the Student Enrollment Form interface.*
 
 ## Scope of Functionalities
@@ -100,7 +100,8 @@ For any inquiries or feedback, please contact Aditya Sharma at iamadipurohit@gma
 - [HTML Documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+- [Great Teachings by Sir](https://youtu.be/f40mtQI3FuA?si=okefuYkf14qkRl08)
+- 
 ## Other Information
 - This project is part of a web development learning exercise.
 - Contributions and suggestions for improvement are welcome.
