@@ -71,7 +71,8 @@ Feel free to fork this repository and contribute by submitting a pull request. A
 For any inquiries or feedback, please contact Aditya Sharma at iamadipurohit@gmail.com
 
 ## Illustrations
-![Form Screenshot](path/to/screenshot.png)
+![db_image](https://github.com/user-attachments/assets/7f42c1d2-e2ec-4ebf-a07d-ae93dfb48f3e)
+
 *Screenshot of the Student Enrollment Form interface.*
 
 ## Scope of Functionalities
